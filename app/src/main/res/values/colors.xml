@@ -1,0 +1,7 @@
+<resources>
+    <color name="bg">#0F0F0F</color>
+    <color name="bar">#141414</color>
+    <color name="ctrl_text">#FFFFFF</color>
+    <color name="accent">#FF0033</color>
+    <color name="ic_launcher_background">#0F0F0F</color>
+</resources>

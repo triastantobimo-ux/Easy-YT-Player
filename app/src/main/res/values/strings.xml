@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy YT Player</string>
+    <string name="btn_pip">PiP</string>
+    <string name="btn_reload">Reload</string>
+    <string name="btn_desktop">Desktop</string>
+    <string name="btn_home">Home</string>
+</resources>
